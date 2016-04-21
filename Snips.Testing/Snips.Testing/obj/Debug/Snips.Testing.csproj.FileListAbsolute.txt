@@ -1,0 +1,8 @@
+c:\users\thomas\documents\snipsTesting\Snips.Testing\Snips.Testing\bin\Debug\Snips.Testing.dll
+c:\users\thomas\documents\snipsTesting\Snips.Testing\Snips.Testing\bin\Debug\Snips.Testing.pdb
+c:\users\thomas\documents\snipsTesting\Snips.Testing\Snips.Testing\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\thomas\documents\snipsTesting\Snips.Testing\Snips.Testing\bin\Debug\SnipsCode.dll
+c:\users\thomas\documents\snipsTesting\Snips.Testing\Snips.Testing\bin\Debug\Ionic.Zip.dll
+c:\users\thomas\documents\snipsTesting\Snips.Testing\Snips.Testing\obj\Debug\Snips.Testing.csprojResolveAssemblyReference.cache
+c:\users\thomas\documents\snipsTesting\Snips.Testing\Snips.Testing\obj\Debug\Snips.Testing.dll
+c:\users\thomas\documents\snipsTesting\Snips.Testing\Snips.Testing\obj\Debug\Snips.Testing.pdb
